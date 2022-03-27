@@ -46,6 +46,7 @@ p {
 }
 h2 {
   color: rgb(35, 95, 8);
+  text-align: center;
 }
 ol {
   color: rgb(28, 94, 94);
@@ -59,6 +60,8 @@ ol {
 }
 .adoption {
   align-items: center;
+  margin-bottom: 20px;
+  padding: 1em;
 }
 nav a:hover {
   color: rgb(214, 70, 26);
@@ -66,4 +69,13 @@ nav a:hover {
 .main-text {
   text-align: center;
   margin: 30px 10px;
+}
+#adopt-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.steps-adopt {
+  margin-bottom: 20px;
+  padding: 1em;
 }
